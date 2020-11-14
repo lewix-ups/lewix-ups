@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.instagram.com/miniature.lewis/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
+  <img align="left" alt="Emirhan | İnstagram" width="21px" src="image/instagram.png" />
 </a>
 
 <br />
