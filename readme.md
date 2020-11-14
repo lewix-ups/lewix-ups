@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.instagram.com/miniature.lewis/">
-  <img align="left" alt="Emirhan | İnstagram" width="21px" src="image/instagram.png" />
+  <img align="left" alt="Emirhan | İnstagram" width="21px" src="" />
 </a>
 
 <br />
@@ -27,8 +27,8 @@ Hi, I'm Emirhan, I am a Front-End Web developer.
 
 
 
-![lewix-ups github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
+![lewix-ups github stats](https://github-readme-stats.vercel.app/api?username=lewix-ps&show_icons=true&theme=radical)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewix-ups&layout=compact)](https://github.com/AdemCan0BEY/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewix-ups&layout=compact)](https://github.com/lewix-ups/github-readme-stats)
