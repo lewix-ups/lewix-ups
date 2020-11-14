@@ -1,14 +1,11 @@
-### Hi there, I'm [AdemCan!](https://tr.ademcan.cf) 
+### Hi there, I'm [Emirhan]
 
 **My Social Accounts**
 
 <a href="https://twitter.com/">
-  <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
+  <img align="left" alt="Emirhan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/miniature.lewis/">
-  <img align="left" alt="Emirhan | İnstagram" width="21px" src="" />
-</a>
 
 <br />
 <br />
